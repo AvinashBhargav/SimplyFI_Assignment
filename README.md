@@ -66,3 +66,6 @@ Test Case 2: Gi-Hun and Ali have height 8
 minimum number of players who need to get shot is 1
 .
 Test Case 3: Nobody needs to get shot because everyone is shorter than Gi-Hun and Ali.
+#Solution in colab
+https://colab.research.google.com/drive/13bUF3NSasjWb08wNSZviKDpHHt8oYvMv#scrollTo=nDZ5NGe7lAJU
+
